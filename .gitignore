@@ -1,0 +1,4 @@
+__pycache__
+blog-env
+.DS_Store
+blog.db
